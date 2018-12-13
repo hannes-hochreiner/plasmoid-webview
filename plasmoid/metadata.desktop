@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WebView
+Comment=A simple web view plasmoid.
+Type=Service
+
+X-KDE-Library=
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Hannes Hochreiner
+X-KDE-PluginInfo-Email=hannes@hochreiner.net
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-Name=net.hochreiner.plasmoid.webview
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=hochreiner.net
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-KDE-PluginInfo-Category=Windows and Tasks
+X-Plasma-RemoteLocation=
